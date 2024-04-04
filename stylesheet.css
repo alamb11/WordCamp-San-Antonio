@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+.jumbotron {
+    background-image: url("images/satx.jpg");
+        background-size: cover}
+.jumbotron h1 {
+    color:#FFFFFF}
+.jumbotron p {
+    color:#FFFFFF
+}
+body {background-color:#CCE7FF}
